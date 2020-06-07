@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our first webpage</title>
+    <style>
+      body {
+        background-color: beige;
+      }
+
+      #nav1 {
+        background-color: cadetblue;
+      }
+
+      .firstList {
+        color: crimson;
+      }
+
+      ol {
+        border: 3px solid black;
+      }
+      main h1 {
+        background-color: cadetblue;
+        color: coral;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>World of Donuts</h1>
+      <nav id="nav1">
+        <ul>
+          <li class="firstList">Home Page</li>
+          <li style="color: darkgreen;">Contact us</li>
+          <li class="firstList">About</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Class 1 Lab</h1>
+
+      <ol>
+        <li>Eclairs</li>
+        <li>Double Chocolate</li>
+        <li>Sugar dipped</li>
+      </ol>
+
+      <p style="color: blue; background-color: cornsilk;">
+        What is your first name?
+      </p>
+      <p style="color: crimson; background-color: darkgoldenrod;">
+        What is your last name?
+      </p>
+      <p style="color: darkorchid; background-color: darkslategray;">
+        what is your date of birth?
+      </p>
+      <p style="color: forestgreen; background-color: grey;">
+        what would you like to order?
+      </p>
+    </main>
+
+    <footer></footer>
+    <script>
+      var userName1 = prompt("What is your first name?");
+      var userName2 = prompt("What is your last name?");
+      var age = prompt("what is your date of birth?", "1/1/2001");
+      var order = prompt("what would you like to order?", "coffee or donut");
+      console.log("The user entered the name ", userName1, userName2);
+      alert("Hello " + userName1 + userName2 + " your order is " + order);
+    </script>
+  </body>
+</html>
