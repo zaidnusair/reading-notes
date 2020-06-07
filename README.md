@@ -2,7 +2,7 @@
 ### This *repo* will hold the **201 reading notes**.
 #### **Table of contents** 
 * [read:01](https://zaidnusair.github.io/reading-notes/class-01)
-* [read:02]()
+* [read:02](https://zaidnusair.github.io/reading-notes/class-02)
 * [read:03]()
 * [read:04]()
 * [read:05]()
