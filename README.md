@@ -11,7 +11,7 @@
 * [read:08]()
 * [read:09]()
 * [read:10]()
-* [read:11]()
+* [read:11](https://zaidnusair.github.io/reading-notes/Read-11)
 * [read:12]()
 * [read:13]()
 * [read:14]()
