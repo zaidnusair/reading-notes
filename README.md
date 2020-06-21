@@ -12,7 +12,7 @@
 * [read:09]()
 * [read:10]()
 * [read:11](https://zaidnusair.github.io/reading-notes/Read-11)
-* [read:12]()
+* [read:12](https://zaidnusair.github.io/reading-notes/read-12)
 * [read:13]()
 * [read:14]()
 * [read:15]()
